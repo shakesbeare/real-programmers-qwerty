@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.realprogrammer'sqwerty</string>
+	<string>org.sil.ukelele.keyboardlayout.trueprogrammer'sqwerty</string>
 	<key>CFBundleName</key>
-	<string>Real Programmer's Qwerty</string>
+	<string>True Programmer's Qwerty</string>
 	<key>CFBundleVersion</key>
-	<string>0.1.0</string>
+	<string>1.0.0</string>
 </dict>
 </plist>
