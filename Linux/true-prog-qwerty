@@ -16,7 +16,7 @@ xkb_symbols "real-prog-qwerty" {
     key <AE08> {	[	  braceright,	8	]	};
     key <AE09> {	[	  bracketright,	9	]	};
     key <AE10> {	[	  asterisk,	0	]	};
-    key <AE11> {	[     exclaim,	percent	]	};
+    key <AE11> {	[     exclam,	percent	]	};
     key <AE12> {	[     bar,	asciitilde		]	};
 
     key <AD01> {	[	  q,	Q 		]	};
